@@ -1,0 +1,1 @@
+Define a movable game object definition and implement a hero class.

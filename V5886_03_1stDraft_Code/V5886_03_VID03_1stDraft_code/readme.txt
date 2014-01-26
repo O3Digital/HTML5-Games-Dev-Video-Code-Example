@@ -1,0 +1,1 @@
+Implement a Preloading class to preload all the graphics files before the game starts.

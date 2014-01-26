@@ -1,0 +1,1 @@
+Putting the platforms on stage with well designed gaps so hero can run on them and jump between them later.

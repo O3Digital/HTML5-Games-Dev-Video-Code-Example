@@ -1,0 +1,1 @@
+Adding clicking logic to the tiles. The tile is removed from the stage when it is clicked.

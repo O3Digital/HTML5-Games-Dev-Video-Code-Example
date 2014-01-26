@@ -1,0 +1,1 @@
+Implement a platform class and a rectangle shape drawing method.

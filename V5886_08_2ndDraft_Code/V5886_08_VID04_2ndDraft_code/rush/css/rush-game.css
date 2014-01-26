@@ -1,0 +1,56 @@
+#game {
+  position: relative;
+}
+
+#game-canvas {
+  background: #efefef;
+}
+
+.scene {
+  width: 480px;
+  height: 320px;
+  background: #efefef;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+#menu {
+  background: url(../images/rush-menu-scene.png);
+}
+
+#gameover {
+  background: url(../images/rush-gameover-scene.png);
+}
+
+#start-btn, #restart-btn {
+  display: block;
+  width: 480px;
+  height: 320px;
+}
+
+#score {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#your-game-score {
+  width: 480px;
+  text-align: center;
+  position: absolute;
+  top: 90px;
+}
+
+#top-scores ul{
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 120px;
+}

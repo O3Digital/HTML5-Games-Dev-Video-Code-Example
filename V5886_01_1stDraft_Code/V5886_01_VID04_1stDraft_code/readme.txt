@@ -1,0 +1,1 @@
+Draw a rectangle shape on the game stage with the EaselJS Shape class and Graphics methods.

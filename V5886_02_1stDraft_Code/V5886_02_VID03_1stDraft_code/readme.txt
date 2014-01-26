@@ -1,0 +1,1 @@
+Adding a counting logic so only the current counting tile will be removed. Other tiles will have no effect when they are clicked.

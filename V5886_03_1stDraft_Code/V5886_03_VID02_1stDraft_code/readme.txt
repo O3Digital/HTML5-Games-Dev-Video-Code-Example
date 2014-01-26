@@ -1,0 +1,1 @@
+Load the graphics into the game canvas and DOM element with createJS Bitmap class and CSS properties.

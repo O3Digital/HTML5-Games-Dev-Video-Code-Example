@@ -1,0 +1,1 @@
+Create a new game with file skeleton and code for game entry point.

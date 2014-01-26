@@ -1,0 +1,1 @@
+Display many tiles on stage from the one tile creation logic.

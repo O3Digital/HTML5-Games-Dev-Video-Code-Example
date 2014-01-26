@@ -1,0 +1,1 @@
+Add a restart game button to the game over scene and reinitialise the game again after clicking on the restart button.

@@ -1,0 +1,1 @@
+Initial code on HTML and JavaScript to get the game stage reference.

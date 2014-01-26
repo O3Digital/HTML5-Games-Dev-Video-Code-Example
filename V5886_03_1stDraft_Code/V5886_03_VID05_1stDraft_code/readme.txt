@@ -1,0 +1,1 @@
+Making the game work nice in mobile Safari by adding touch support and tweaking the screen size.

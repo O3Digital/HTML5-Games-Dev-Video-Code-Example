@@ -1,0 +1,1 @@
+Defining a GameObject class with common properties that share between hero, platform, obstacle and game coins.
