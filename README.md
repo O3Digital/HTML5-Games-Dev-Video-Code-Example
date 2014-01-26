@@ -3,7 +3,7 @@ HTML5-Games-Dev-Video-Code-Example
 
 Code example for my HTML5 Games Dev video course ([http://www.packtpub.com/html5-game-development/video](http://www.packtpub.com/html5-game-development/video)).
 
-There are two games created in the course. They are Count99 and Rust.
+There are two games created in the course. They are [Count99](http://42games.net/html5/count-99/) and [Rush](http://42games.net/html5/rush/).
 
 You can try the games in the following links:
 
